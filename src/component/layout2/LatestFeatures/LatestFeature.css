@@ -1,0 +1,12 @@
+.latefeat{
+    font-size:30px;
+}
+
+@media (min-width: 768px) {
+    constructed stylesheet .col-md-3 {
+      -ms-flex: 0 0 48%;
+      flex: 0 0 48%;
+      max-width: 48%;
+    }
+  }
+  
